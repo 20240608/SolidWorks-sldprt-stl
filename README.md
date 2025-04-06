@@ -1,5 +1,7 @@
 # SolidWorks-sldprt-stl-
-通过这个pyhon代码，可以实现在Windows系统安装SolidWorks软件的情况下，实现SLDPRT文件批量自动转换成STL文件，便于文件快捷用于3D打印机。
+通过运行pyhon代码，可以实现在Windows系统安装SolidWorks软件的情况下，实现SLDPRT文件批量自动转换成STL文件，便于sw文件快速用于3D打印。
+
+
 说明：
 
 1. 您需要先配置python环境并安装pywin32库：pip install pywin32。
